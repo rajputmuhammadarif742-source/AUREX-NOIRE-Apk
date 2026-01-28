@@ -1,0 +1,7 @@
+{
+  "name": "AUREX NOIRE Luxury E-commerce",
+  "description": "A premium boutique shopping experience for high-end watches, headphones, and accessories, featuring an integrated AI shopping assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
